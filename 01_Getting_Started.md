@@ -1,4 +1,4 @@
-# Getting Started
+# Session 1 - Getting Started
 
 ## Goals
 1. Create a [Glitch](https://glitch.com/) account.  
@@ -25,9 +25,6 @@
 * link (**a**)
 * image (**img**)
 * button (**button**)
-* unordered list (**ul**) with list items (**li**)
-* ordered list (**ol**) with list items (**li**)
-* div (**div**)
 
 ``` html
 <!-- Headings -->
@@ -50,35 +47,6 @@
 <!-- Button -->
 <button>Click Me!</button>
 
-<!-- Unordered List -->
-<ul>
-  <li>List Item1</li>
-  <li>List Item2</li>
-  <li>List Item3</li>
-</ul>
-
-<!-- Ordered List -->
-<ol>
-  <li>List Item1</li>
-  <li>List Item2</li>
-  <li>List Item3</li>
-</ol>
-```
-
-3. We can also nest elements. This is useful if we want to organize our code into sections as follows.
-
-``` HTML
-<div class="profile-container">
-  <div class="profile">
-    <h2>Lizzy</h2>
-    <p>I have two puppies.</p>
-  </div>
-
-  <div class="profile">
-    <h2>Lizzy</h2>
-    <p>I have two puppies.</p>
-  </div>
-</div>
 ```
 
 ### Style elements in CSS
