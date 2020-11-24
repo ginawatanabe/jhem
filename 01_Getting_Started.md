@@ -5,6 +5,7 @@
 2. Get familiar with Glitch website features.
 3. Review creating elements in HTML and styling elements in CSS.
 4. Practice adding information about Type 2 Diabetes to your website.  
+5. See your website go live! 
 
 ## Resources
 - General Coding Reference - https://www.w3schools.com/
