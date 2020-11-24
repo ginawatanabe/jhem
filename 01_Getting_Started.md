@@ -54,6 +54,8 @@
 1. To add style to our elements, we need to [select](https://www.w3schools.com/css/css_selectors.asp) which elements to style, then specify which [properties](https://www.w3schools.com/cssref/default.asp) to change. We can select elements by tag name, ids, or classes as follows:
 
 ``` html
+<!-- HTML -->
+
 <h1>Title1</h1>
 <h1>Title2</h1>
 
@@ -73,6 +75,8 @@
 ```
 
 ``` css
+/* CSS */
+
 /* Select all h1 elements and change the text color to red. */
 h1 {
   color: red;
